@@ -30,5 +30,6 @@ Homestead.json
 # Recommended template: Node.gitignore
 
 dist/
+old_html
 
 # End of https://www.toptal.com/developers/gitignore/api/vuejs,laravel
